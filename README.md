@@ -25,8 +25,8 @@
     <script>
         $(function(){
             // var data = [
-            //              ["1", "M.Tera Septian.S", "XII RPL 2", "Cisitu Baru", "085469515554"],
-            //              ["2", "M.Tera Septian.S", "XII RPL 2", "Cisitu Baru", "085469515554"]
+            //              ["1", "Yulis Juliawati", "XII RPL 1", "Cirapuhan", "087837568186"],
+            //              ["2", "Yulis JUliawati", "XII RPL 1", "Cirapuhan", "087837568186"]
             //             ];
 
             var data = [];
